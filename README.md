@@ -12,8 +12,8 @@ Pitch accent illustrations in SVG.
 * web interface with pitch accent lookup based on [Wadoku](https://www.wadoku.de/) data
 
 ### Web interface
-* [pitch.html](https://illdepence.github.io/SVG_pitch/pitch.html): manually draw
-* [pitch_auto.html](https://illdepence.github.io/SVG_pitch/pitch_auto.html): automatic annotation
+* [pitch.html](N/A): manually draw
+* [pitch_auto.html](https://yametekudastoppu.github.io/SVG-Generator-Dark-Mode/pitch_auto.html): automatic annotation
 
 ![](preview.gif)
 
