@@ -1,4 +1,9 @@
-Pitch accent illustrations in SVG.
+Originally created by IllDepence, visit their GitHub here: https://github.com/IllDepence/SVG_pitch
+This is exactly the same, but will generate the SVG in white instead of black.
+
+____
+
+Pitch accent illustrations in SVG. 
 
 ### Features
 * clean and simple SVG
